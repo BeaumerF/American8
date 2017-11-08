@@ -1,0 +1,11 @@
+C:\Users\FrBea\Desktop\rendu\DOT_cardGames_2017\Leater\Server\obj\Debug\netcoreapp2.0\Server.csprojResolveAssemblyReference.cache
+C:\Users\FrBea\Desktop\rendu\DOT_cardGames_2017\Leater\Server\obj\Debug\netcoreapp2.0\Server.csproj.CoreCompileInputs.cache
+C:\Users\FrBea\Desktop\rendu\DOT_cardGames_2017\Leater\Server\obj\Debug\netcoreapp2.0\Server.AssemblyInfoInputs.cache
+C:\Users\FrBea\Desktop\rendu\DOT_cardGames_2017\Leater\Server\obj\Debug\netcoreapp2.0\Server.AssemblyInfo.cs
+C:\Users\FrBea\Desktop\rendu\DOT_cardGames_2017\Leater\Server\bin\Debug\netcoreapp2.0\Server.deps.json
+C:\Users\FrBea\Desktop\rendu\DOT_cardGames_2017\Leater\Server\bin\Debug\netcoreapp2.0\Server.runtimeconfig.json
+C:\Users\FrBea\Desktop\rendu\DOT_cardGames_2017\Leater\Server\bin\Debug\netcoreapp2.0\Server.runtimeconfig.dev.json
+C:\Users\FrBea\Desktop\rendu\DOT_cardGames_2017\Leater\Server\bin\Debug\netcoreapp2.0\Server.dll
+C:\Users\FrBea\Desktop\rendu\DOT_cardGames_2017\Leater\Server\bin\Debug\netcoreapp2.0\Server.pdb
+C:\Users\FrBea\Desktop\rendu\DOT_cardGames_2017\Leater\Server\obj\Debug\netcoreapp2.0\Server.dll
+C:\Users\FrBea\Desktop\rendu\DOT_cardGames_2017\Leater\Server\obj\Debug\netcoreapp2.0\Server.pdb
