@@ -2,6 +2,7 @@
 
 # American Eight
 The But of Crazy Eight game is to get rid as soon as possible of all the cards we have in hand.
+You can play it on MacOS, Linux and Windows.
 
 ## What does it use?
   - .Net Core
@@ -24,4 +25,3 @@ The But of Crazy Eight game is to get rid as soon as possible of all the cards w
 
 ## Can I help you?
 Of course ! By hitting the :star: button !
-
