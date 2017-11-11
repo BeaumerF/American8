@@ -1,4 +1,4 @@
-![logo](./img/logo.png)
+![logo](./8rican/img/logo.png)
 
 # American Eight
 The But of Crazy Eight game is to get rid as soon as possible of all the cards we have in hand.
@@ -9,7 +9,7 @@ You can play it on MacOS, Linux and Windows.
 
 ## How does it work ?
 
-![doc](./img/readme.png)
+![doc](./8rican/img/readme.png)
 
 ## How to Play ?
 1. You need 2 to 4 clients connected.
