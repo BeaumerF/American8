@@ -1,7 +1,7 @@
 ![logo](./8rican/img/logo.png)
 
 # American Eight
-The But of Crazy Eight game is to get rid as soon as possible of all the cards we have in hand.
+The But of Crazy Eight game is to get rid as soon as possible of all the cards you have in hand.
 You can play it on MacOS, Linux and Windows.
 
 ## What does it use?
