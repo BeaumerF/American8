@@ -9,7 +9,7 @@ You can play it on MacOS, Linux and Windows.
 
 ## How does it work ?
 
-![doc](./8rican/img/readme.png)
+![doc](./8rican/img/uml.png)
 
 ## How to Play ?
 1. You need 2 to 4 clients connected.
@@ -20,7 +20,7 @@ You can play it on MacOS, Linux and Windows.
     * An eight of any color
 
 ## To do
-- [ ] The valets blow the next player's turn
+- [X] The valets blow the next player's turn
 - [ ] The Ace of Spades change the order of the players
 
 ## Can I help you?
