@@ -81,12 +81,10 @@ public class Program
                 {
                 isFirstTurn = false;
                 passCount = 0;
-
-
                 player.cards = player.cards.Replace(theString, " ");
                 lastPlay = theString;
-                //    if (theString[1] == 11) // si c'est un valet, passe le tour du joueur suivant
-                //        return (nbClients);
+                if (first.Equals("V")) // si c'est un valet, passe le tour du joueur suivant
+                    return (player.nb + 1);
                 return (player.nb);
             }
             else

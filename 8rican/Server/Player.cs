@@ -11,7 +11,6 @@ namespace Server
     {
         public int nb;
         public String cards;
-        public Boolean isLeater;
         public Socket sock;
         public StreamWriter streamWriter;
         public StreamReader streamReader;

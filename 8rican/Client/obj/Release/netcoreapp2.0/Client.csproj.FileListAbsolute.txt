@@ -1,0 +1,10 @@
+/Users/quentindemange/Documents/Epitech/3éme année/DotNet/DOT_cardGames_2017/Leater/Client/bin/Release/netcoreapp2.0/Client.deps.json
+/Users/quentindemange/Documents/Epitech/3éme année/DotNet/DOT_cardGames_2017/Leater/Client/bin/Release/netcoreapp2.0/Client.runtimeconfig.json
+/Users/quentindemange/Documents/Epitech/3éme année/DotNet/DOT_cardGames_2017/Leater/Client/bin/Release/netcoreapp2.0/Client.runtimeconfig.dev.json
+/Users/quentindemange/Documents/Epitech/3éme année/DotNet/DOT_cardGames_2017/Leater/Client/bin/Release/netcoreapp2.0/Client.dll
+/Users/quentindemange/Documents/Epitech/3éme année/DotNet/DOT_cardGames_2017/Leater/Client/bin/Release/netcoreapp2.0/Client.pdb
+/Users/quentindemange/Documents/Epitech/3éme année/DotNet/DOT_cardGames_2017/Leater/Client/obj/Release/netcoreapp2.0/Client.csproj.CoreCompileInputs.cache
+/Users/quentindemange/Documents/Epitech/3éme année/DotNet/DOT_cardGames_2017/Leater/Client/obj/Release/netcoreapp2.0/Client.AssemblyInfoInputs.cache
+/Users/quentindemange/Documents/Epitech/3éme année/DotNet/DOT_cardGames_2017/Leater/Client/obj/Release/netcoreapp2.0/Client.AssemblyInfo.cs
+/Users/quentindemange/Documents/Epitech/3éme année/DotNet/DOT_cardGames_2017/Leater/Client/obj/Release/netcoreapp2.0/Client.dll
+/Users/quentindemange/Documents/Epitech/3éme année/DotNet/DOT_cardGames_2017/Leater/Client/obj/Release/netcoreapp2.0/Client.pdb
